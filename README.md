@@ -20,8 +20,8 @@ Repository ini berisi kumpulan laporan praktikum dan kode yang saya kerjakan sel
 
 | No | 📅 Tanggal   | 🔢 Praktikum | 📝 Topik                                      | 📖 Laporan | 💻 Repositori |
 |----|-------------|--------------|----------------------------------------------|------------|---------------|
-| 1  | 03-09-2025  | 01           | Pengenalan Mobile Programming & Setup Env    | [📂 Modul 01](link_modul_01) | [🔗 Repo 01](link_modul_01) |
-| 2  | 03-09-2025  | 02           | Pengenalan Mobile Programming & Setup Env    | [📂 Modul 02](link_modul_02) | [🔗 Repo 02](link_modul_02) |
+| 1  | 03-09-2025  | 01           | Pengenalan Mobile Programming & Setup Env    | [📂 Modul 01]([link_modul_01](https://drive.google.com/file/d/1Z98_uPFBW5dLu0ZHXhYrRpUIxDIs5sIj/view?usp=drive_link)) | [🔗 Repo 01](link_modul_01) |
+| 2  | 03-09-2025  | 02           | Pengenalan Mobile Programming & Setup Env    | [📂 Modul 02]([link_modul_02](https://drive.google.com/file/d/1aUw945GK-xpiF6HfbT2t6N8WupVIcLkk/view?usp=drive_link)) | [🔗 Repo 02](link_modul_02) |
 
 ---
 
