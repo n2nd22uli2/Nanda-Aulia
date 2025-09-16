@@ -22,7 +22,7 @@ Repository ini berisi kumpulan laporan praktikum dan kode yang saya kerjakan sel
 |----|-------------|--------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | 1  | 03-09-2025  | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [📂 Modul 01](https://drive.google.com/file/d/1Z98_uPFBW5dLu0ZHXhYrRpUIxDIs5sIj/view?usp=drive_link) | [🔗 Repo 01](https://github.com/n2nd22uli2/UI/tree/main) |
 | 2  | 03-09-2025  | 02           | Widget Row dan Column | [📂 Modul 02](https://drive.google.com/file/d/1aUw945GK-xpiF6HfbT2t6N8WupVIcLkk/view?usp=drive_link) | [🔗 Repo 02](https://github.com/n2nd22uli2/row-and-column/tree/main) |
-| 3  | 10-09-2025  | 03           | Pengaturan Layout Row dan Column di Flutter | [📂 Modul 02](https://drive.google.com/file/d/1cDHM9gmtvJQJ8RAJ2c5SQHU4Yl-fAoV_/view?usp=drive_link) | [🔗 Repo 03](https://github.com/n2nd22uli2/row-and-column/tree/main) |
+| 3  | 10-09-2025  | 03           | Pengaturan Layout Row dan Column di Flutter | [📂 Modul 02](https://drive.google.com/file/d/1cDHM9gmtvJQJ8RAJ2c5SQHU4Yl-fAoV_/view?usp=drive_link) | [🔗 Repo 03](https://github.com/n2nd22uli2/Layout-Row-dan-Column-di-Flutter/tree/main) |
 
 
 ---
